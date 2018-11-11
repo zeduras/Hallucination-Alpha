@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Hallucination.data.unityweb",
+"asmCodeUrl": "Hallucination.asm.code.unityweb",
+"asmMemoryUrl": "Hallucination.asm.memory.unityweb",
+"asmFrameworkUrl": "Hallucination.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}
